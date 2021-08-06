@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFC107</color>
+    <color name="colorPrimaryDark">#ffa000</color>
+    <color name="backgroundcolor">#ffffff</color>
+    <color name="grisclaro">#EDEDED</color>
+    <color name="purpura">#7C4Dff</color>
+    <color name="amarillo">#FFB300</color>
+    <color name="verde">#00BFA5</color>
+    <color name="azulfuerte">#23283a</color>
+    <color name="rosafuerte">#FE104D</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="Error">#FF0000</color>
+</resources>
